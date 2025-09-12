@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+let score = 33
+=======
 let score = "33"
 let sscore = 33
 console.log(typeof score);
 console.log(typeof sscore);
+>>>>>>> e9f7ec343e4d480efdb29d7c20b28df9ec6b08fe
 
+<<<<<<< HEAD
+console.log(typeof score);
+
+
+=======
 // when u use "" it consider as string not number //
  let valueInNumber = Number(typeof score);
  console.log(typeof valueInNumber);
@@ -32,3 +41,5 @@ console.log(stringNumber);
 console.log(typeof stringNumber);
 
 
+
+>>>>>>> e9f7ec343e4d480efdb29d7c20b28df9ec6b08fe
